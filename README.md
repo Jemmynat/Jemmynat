@@ -1,7 +1,10 @@
 ## 👋 Hi, I'm Jemmynat Omoshalewa Oriade
+
 🚀 Power Platform: Functional Consultant | Developer | Trainer | Tech Storyteller
+
+I’m passionate about transforming business challenges into intelligent, automated solutions using Microsoft technologies. My mission is simple: to empower organizations to work smarter, not harder — one Power App, Flow, and Dashboard at a time..
 <!--
-**I’m passionate about transforming business challenges into intelligent, automated solutions using Microsoft technologies. My mission is simple: to empower organizations to work smarter, not harder — one Power App, Flow, and Dashboard at a time..
+**
 
 Here are some ideas to get you started:
 
