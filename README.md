@@ -1,10 +1,11 @@
-## 👋 Hi, I'm Jemmynat Omoshalewa Oriade
+👋 Hi, I'm Jemmynat Omoshalewa Oriade
 
 🚀 Power Platform: Functional Consultant | Developer | Trainer | Tech Storyteller
 
 I’m passionate about transforming business challenges into intelligent, automated solutions using Microsoft technologies. My mission is simple: to empower organizations to work smarter, not harder — one Power App, Flow, Agent, and Dashboard at a time..
-//<!--
-## 💡 What I Do
+
+## 
+💡 What I Do
 
 Power Apps Development: Craft dynamic, user-friendly apps that streamline business processes.
 
@@ -14,7 +15,8 @@ Power BI Dashboards: Turn data into actionable insights for smarter decisions.
 
 SharePoint Solutions: Create connected systems for smooth collaboration and approvals.
 
-## 🧠 Currently Exploring
+## 
+🧠 Currently Exploring
 
 Microsoft Copilot Studio
 
@@ -24,7 +26,8 @@ Advanced Power Automate Expressions
 
 Expanding Natovate — a brand dedicated to building smarter businesses
 
-## 💼 Featured Projects
+## 
+💼 Featured Projects
 
 🧾 Requisition & Approval App: Multi-level approval workflow for departmental budget requests.
 
@@ -36,16 +39,23 @@ Expanding Natovate — a brand dedicated to building smarter businesses
 
 🧩 (More coming soon as I build out my Power Platform portfolio!)
 
-## 💬 “I believe technology is most powerful when it simplifies — and that’s what I do best.”
-##💡 My Approach
+## 
+💬 “I believe technology is most powerful when it simplifies — and that’s what I do best.”
+##
+<!--
+💡 My Approach
 
-##💡 What I Bring to the table
+##
+💡 What I Bring to the table
 
-##💡 Core Competencies
+##
+💡 Core Competencies
 
-##💡 Technical skills
+##
+💡 Technical skills
 
-##💡 Soft skills
+##
+💡 Soft skills
 
 Here are some ideas to get you started:
 
